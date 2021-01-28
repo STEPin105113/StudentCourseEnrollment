@@ -1,6 +1,7 @@
 package studentdatabaseapp;
 public class overriding
 {
+<<<<<<< HEAD
 	   public void myMethod()
 	   {
 		System.out.println("***************************************************");
@@ -13,4 +14,7 @@ public class overriding
 		//Super keyword
 		super.myMethod();
 	   }
+=======
+	
+>>>>>>> branch 'master' of https://github.com/STEPin105113/StudentCourseEnrollment
 }

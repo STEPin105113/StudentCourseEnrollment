@@ -2,6 +2,7 @@
 package studentdatabaseapp;
 public class ConsOverload
 {
+<<<<<<< HEAD
 	  private String name;
 
 	// Method overloading
@@ -15,4 +16,7 @@ public class ConsOverload
 	  public void printName(){
 	    System.out.println(name);
 	  }
+=======
+
+>>>>>>> branch 'master' of https://github.com/STEPin105113/StudentCourseEnrollment
 }

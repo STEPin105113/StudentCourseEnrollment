@@ -1,5 +1,5 @@
-
 package studentdatabaseapp;
+
 import java.util.Scanner;
 public class Student 
 {
@@ -113,4 +113,10 @@ public class Student
 	          "\nBalance: RM" + tuitionBalance +
 	          "\n----------------------------------------";
 	          }
+=======
+//import java.util.Scanner;
+public class Student 
+{
+	
+>>>>>>> branch 'master' of https://github.com/STEPin105113/StudentCourseEnrollment
 }
